@@ -86,14 +86,14 @@
 
 @media (width: 820px) {
     .meme-accordion>ul>li>h3 {
-        font: 0.5rem Arial, Sans-Serif;
+        font: 0.9rem Arial, Sans-Serif;
         color: rgb(255, 60, 0);
     }
 }
 
 @media (height: 1180px) {
     .meme-accordion>ul>li>h3 {
-        font: 0.5rem Arial, Sans-Serif;
+        font: 0.9rem Arial, Sans-Serif;
         color: rgb(255, 60, 0);
         }
 }
