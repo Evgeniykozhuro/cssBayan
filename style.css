@@ -65,5 +65,35 @@
     display: block;
     margin: 0 auto;
     width: 100%;
-    
+
+}
+
+
+
+@media (width: 320px) {
+    .meme-accordion>ul>li>h3 {
+        font: 1rem Arial, Sans-Serif;
+        color: rgb(255, 60, 0);
+    }
+}
+
+@media (height: 568px) {
+    .meme-accordion>ul>li>h3 {
+        font: 1rem Arial, Sans-Serif;
+        color: rgb(255, 60, 0);
+        }
+}
+
+@media (width: 820px) {
+    .meme-accordion>ul>li>h3 {
+        font: 0.5rem Arial, Sans-Serif;
+        color: rgb(255, 60, 0);
+    }
+}
+
+@media (height: 1180px) {
+    .meme-accordion>ul>li>h3 {
+        font: 0.5rem Arial, Sans-Serif;
+        color: rgb(255, 60, 0);
+        }
 }
